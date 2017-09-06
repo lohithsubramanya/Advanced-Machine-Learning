@@ -14,3 +14,6 @@ Using Tesseract OCR with Python : http://www.pyimagesearch.com/2017/07/10/using-
 
 Most Active Data Scientists, Free Books, Notebooks & Tutorials on Github
 * https://www.analyticsvidhya.com/blog/2016/09/most-active-data-scientists-free-books-notebooks-tutorials-on-github/
+
+
+CNN : http://scs.ryerson.ca/~aharley/vis/conv/flat.html
