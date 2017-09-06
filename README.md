@@ -16,4 +16,4 @@ Most Active Data Scientists, Free Books, Notebooks & Tutorials on Github
 * https://www.analyticsvidhya.com/blog/2016/09/most-active-data-scientists-free-books-notebooks-tutorials-on-github/
 
 
-CNN : http://scs.ryerson.ca/~aharley/vis/conv/flat.html
+CNN for digits : http://scs.ryerson.ca/~aharley/vis/conv/flat.html
