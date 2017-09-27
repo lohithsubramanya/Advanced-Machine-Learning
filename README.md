@@ -17,3 +17,5 @@ Most Active Data Scientists, Free Books, Notebooks & Tutorials on Github
 
 
 CNN for digits : http://scs.ryerson.ca/~aharley/vis/conv/flat.html
+
+CNN Important Papers : https://adeshpande3.github.io/adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need-To-Know-About.html
